@@ -4,14 +4,14 @@
     <img align="right" width="180px" height="180px" src="./assets/05de479819f48bd33720d4767161fd79-sticker.png"/>
 </div>
 
-**`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|AI]`**
+**`Web Development Enthusiast [Undergraduate Student|Full Stack Developer|AI]`**
 
 <p style='text-align: justify;'>
 Hello! My name is Lorenzo, and I'm a student currently entering my senior year at the University of San Francisco. I have a keen interest in web development and I'm actively seeking opportunities to grow and expand my skills in the field.
 </p>
 
 <p style='text-align: justify;'>
-With a strong foundation in CSS, HTML, JavaScript, React, Vite, Jest and a dash of Stack Overflow I possess the technical expertise necessary to create dynamic and user-friendly websites. I enjoy leveraging these technologies to build engaging and intuitive web experiences that leave a lasting impression on users. For more information and live demos of my projects youre welcome to visit my <a href="https://www.lorenzotaylor.com/" target="_blank">portfolio website.</a>
+With a strong foundation in web development, data analytics and a dash of Stack Overflow I possess the technical expertise necessary to create dynamic and user-friendly websites. I enjoy leveraging these technologies to build engaging and intuitive web experiences that leave a lasting impression on users. For more information and live demos of my projects youre welcome to visit my <a href="https://www.lorenzotaylor.com/" target="_blank">portfolio website.</a>
 </p>
 
 <p align="left">
@@ -24,7 +24,7 @@ With a strong foundation in CSS, HTML, JavaScript, React, Vite, Jest and a dash 
 </p>
 
 <br />
-<h2 align="left">🌟 Languages & Tools</h2>
+<h2 align="left">🌟 Languages & Tools I Enjoy Using</h2>
 <div>
     <img align="left" src="./assets/luffy.gif" width="120" height="120" loop="infinite"/>
     <img align="right" src="./assets/2f9e52a2c96e80731f8bc6c8cca130e9-sticker.png" width="120" height="120"/>
@@ -56,7 +56,7 @@ With a strong foundation in CSS, HTML, JavaScript, React, Vite, Jest and a dash 
 <br />
 <br />
 
-<h2 align="left">🧰 Top used Languages</h2>
+<h2 align="left">🧰 Most used Languages</h2>
 <div align="center">
 <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotaylor&layout=compact&langs_count=12" />
 </div>
