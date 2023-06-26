@@ -1,7 +1,7 @@
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
     <h1 align="left">Lorenzo Taylor</h1>
-    <img align="right" width="180px" height="180px" src="./assets/2f9e52a2c96e80731f8bc6c8cca130e9-sticker.png"/>
+    <img align="right" width="180px" height="180px" src="./assets/05de479819f48bd33720d4767161fd79-sticker.png"/>
 </div>
 
 **`Web Developer Enthusiast [Undergraduate Student|Full Stack Developer|AI]`**
@@ -26,8 +26,8 @@ With a strong foundation in CSS, HTML, JavaScript, React, Vite, Jest and a dash 
 <br />
 <h2 align="left">🌟 Languages & Tools</h2>
 <div>
-    <img align="left" src="./assets/luffy.gif" width="120" height="140" loop="infinite"/>
-    <img align="right" src="./assets/05de479819f48bd33720d4767161fd79-sticker.png" width="120" height="120"/>
+    <img align="left" src="./assets/luffy.gif" width="120" height="120" loop="infinite"/>
+    <img align="right" src="./assets/2f9e52a2c96e80731f8bc6c8cca130e9-sticker.png" width="120" height="120"/>
     <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
