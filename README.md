@@ -68,7 +68,7 @@ With a strong foundation in web development, data analytics and a dash of Stack 
 
 
 
-
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoTaylor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
