@@ -42,7 +42,6 @@ For more information and live demos of my projects youre welcome to visit my <a 
 
 <div align="center">
     <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/lorenzotaylor?cardType=github&theme=github-dark&preferLogin=false">
-    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://github-readme-stats.vercel.app/api?username=LorenzoTaylor">
 </div>
 <br />
 <br />
@@ -51,6 +50,7 @@ For more information and live demos of my projects youre welcome to visit my <a 
 <div align="center">
 <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotaylor&layout=compact&langs_count=12" />
 </div>
+
 
 
 
