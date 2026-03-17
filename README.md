@@ -1,4 +1,4 @@
-![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/a3b11628-2aa6-4d44-b2c9-f8f7320a4708)
+![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/user/suiggl/sprite)
 
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
