@@ -1,3 +1,5 @@
+![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/sprite/a3b11628-2aa6-4d44-b2c9-f8f7320a4708)
+
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
     <h1 align="left">Lorenzo Taylor</h1>
