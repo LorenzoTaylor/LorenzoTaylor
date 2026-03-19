@@ -1,5 +1,4 @@
-![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/user/suiggl/sprite)
-
+![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/user/LorenzoTaylor/sprite)
 <img src="./assets/mario.gif" alt="banner">
 <div align="center">
     <h1 align="left">Lorenzo Taylor</h1>
