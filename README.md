@@ -1,54 +1,34 @@
 ![My GitGarden Sprite](https://gitgarden-production.up.railway.app/api/user/LorenzoTaylor/sprite)
 <div align="center">
-    <h1 align="left">Lorenzo Taylor</h1>
+    <h1 align="left">Hello! My name is Lorenzo </h1>
     <img align="right" width="180px" height="180px" src="./assets/05de479819f48bd33720d4767161fd79-sticker.png"/>
 </div>
 
-**`Web Development Enthusiast [Full Stack Developer|AI]`**
+## Portfolio Site
 
-<p style='text-align: justify;'>
-Hello! My name is Lorenzo
-</p>
+- 🤷🏾‍♂️ **[Portfolio](lorenzotaylor.com)** - Ai native interview VM's
 
-<p style='text-align: justify;'>
-For more information and live demos of my projects youre welcome to visit my <a href="https://www.lorenzotaylor.com/" target="_blank">portfolio website.</a>
-</p>
+## Current Projects
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/lorenzo-taylor/">
-        <img alt="LinkedIn" title="Checkout My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:tlorenzo114@gmail.com">
-        <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
-    </a>
-</p>
+- 🔄 **[Coming Soon](https://www.google.com/search?q=bongo+cat+gif&sca_esv=d2a5470d2e85f15e&udm=2&biw=1440&bih=669&sxsrf=ANbL-n64BLMLsTVSpgZ3gtQ3vorpcsz2Tw%3A1775865501362&ei=nY7ZabfmFfec0PEPurjk0Qg&oq=bongo+cat&gs_lp=Egtnd3Mtd2l6LWltZyIJYm9uZ28gY2F0KgIIATINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYsQMyBhAAGAcYHjIFEAAYgAQyBRAAGIAEMgYQABgHGB4yChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFSOYIUABYAHABeACQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAguYAwCIBgGSBwExoAcAsgcAuAcAwgcDMy0xyAcJgAgA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLTFzcUR4aUdEYXBRZkdNMg4xc3FEeGlHRGFwUWZHTToOVVBrTDhDQUNtX0hoLU0gBCocCgZtb3NhaWMSEGUtMXNxRHhpR0RhcFFmR00YADABGAcglvCI2QxKCBABGAEgASgB)** - Ai native interview VM's
+- 👾 **[GitGarden](https://trygitgarden.com)** - Pixel art characters for your Github stats
+
+### Legacy Work
+- 💳 **[Renumerate](https://renumerate.com)** - Retention on autopilot
+- 👴🏻 **[Herewith](https://herewith.com)** - Taskrabbit for the elderly
 
 <br />
 <h2 align="left">🌟 Languages & Tools I Enjoy Using</h2>
 <div>
-    <img align="left" src="./assets/luffy.gif" width="120" height="120" loop="infinite"/>
-    <img align="right" src="./assets/2f9e52a2c96e80731f8bc6c8cca130e9-sticker.png" width="120" height="120"/>
-    <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    
-</div>
-
-<br />
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/lorenzotaylor?cardType=github&theme=github-dark&preferLogin=false">
-</div>
-<br />
-<br />
-
-<h2 align="left">🧰 Most used Languages</h2>
-<div align="center">
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzotaylor&layout=compact&langs_count=12" />
+<img align="left" src="./assets/luffy.gif" width="120" height="120" loop="infinite"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<br clear="left"/>
 </div>
 
 
