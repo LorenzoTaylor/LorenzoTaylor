@@ -6,7 +6,7 @@
 
 ## Portfolio Site
 
-- 🤷🏾‍♂️ **[Portfolio](lorenzotaylor.com)** - Ai native interview VM's
+- 🤷🏾‍♂️ **[Portfolio](lorenzotaylor.com)** - My personal site
 
 ## Current Projects
 
