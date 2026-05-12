@@ -8,7 +8,7 @@
 - 🤷🏾‍♂️ **[Portfolio](https://lorenzotaylor.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile)** - My personal site
 
 ### Current Projects
-- 🔄 **[Coming Soon](https://www.google.com/search?q=bongo+cat+gif&sca_esv=d2a5470d2e85f15e&udm=2&biw=1440&bih=669&sxsrf=ANbL-n64BLMLsTVSpgZ3gtQ3vorpcsz2Tw%3A1775865501362&ei=nY7ZabfmFfec0PEPurjk0Qg&oq=bongo+cat&gs_lp=Egtnd3Mtd2l6LWltZyIJYm9uZ28gY2F0KgIIATINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYsQMyBhAAGAcYHjIFEAAYgAQyBRAAGIAEMgYQABgHGB4yChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFSOYIUABYAHABeACQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAguYAwCIBgGSBwExoAcAsgcAuAcAwgcDMy0xyAcJgAgA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLTFzcUR4aUdEYXBRZkdNMg4xc3FEeGlHRGFwUWZHTToOVVBrTDhDQUNtX0hoLU0gBCocCgZtb3NhaWMSEGUtMXNxRHhpR0RhcFFmR00YADABGAcglvCI2QxKCBABGAEgASgB)** - Ai native interview VM's
+- 🔄 **[Coming Soon](https://www.google.com/search?q=bongo+cat+gif&sca_esv=d2a5470d2e85f15e&udm=2&biw=1440&bih=669&sxsrf=ANbL-n64BLMLsTVSpgZ3gtQ3vorpcsz2Tw%3A1775865501362&ei=nY7ZabfmFfec0PEPurjk0Qg&oq=bongo+cat&gs_lp=Egtnd3Mtd2l6LWltZyIJYm9uZ28gY2F0KgIIATINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYsQMyBhAAGAcYHjIFEAAYgAQyBRAAGIAEMgYQABgHGB4yChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFSOYIUABYAHABeACQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAguYAwCIBgGSBwExoAcAsgcAuAcAwgcDMy0xyAcJgAgA&sclient=gws-wiz-img&sei=aIoDarXuFKLA0PEPm-rNoQo#sv=CAMSVhoyKhBlLWdIQU55VjBVYUc2NXdNMg5nSEFOeVYwVWFHNjV3TToOaFB6ZzVKQUlLcVhmdE0gBCocCgZtb3NhaWMSEGUtZ0hBTnlWMFVhRzY1d00YADABGAcg1N7S_AtKCBABGAEgASgB)** - Ai native interview VM's
 - 👾 **[GitGarden](https://trygitgarden.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile)** - Pixel art characters for your Github stats
 
 ### Legacy Work
